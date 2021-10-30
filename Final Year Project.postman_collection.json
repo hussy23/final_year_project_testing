@@ -1,0 +1,269 @@
+{
+	"info": {
+		"_postman_id": "498b31b6-7e45-4e98-802f-2f7732ce89b0",
+		"name": "Final Year Project",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://localhost:8080/DC/index.php",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/DC/index.php",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"DC",
+						"index.php"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8080/DC/reg.php",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/DC/reg.php",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"DC",
+						"reg.php"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8080/DC/login.php",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/DC/login.php",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"DC",
+						"login.php"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8080/DC/contact.php",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/DC/contact.php",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"DC",
+						"contact.php"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8080/DC/feedback.php",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/DC/feedback.php",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"DC",
+						"feedback.php"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8080/DC/MARVEL.php",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/DC/MARVEL.php",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"DC",
+						"MARVEL.php"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8080/DC/DC.php",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/DC/DC.php",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"DC",
+						"DC.php"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8080/DC/comicsoffer.php",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/DC/comicsoffer.php",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"DC",
+						"comicsoffer.php"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8080/DC/search.php",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/DC/search.php",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"DC",
+						"search.php"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8080/DC/cart.php",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/DC/cart.php",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"DC",
+						"cart.php"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8080/DC/account.php",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/DC/account.php",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"DC",
+						"account.php"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8080/DC/updateprofile.php",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/DC/updateprofile.php",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"DC",
+						"updateprofile.php"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8080/DC/delete.php",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/DC/delete.php",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"DC",
+						"delete.php"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

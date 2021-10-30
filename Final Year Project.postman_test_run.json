@@ -1,0 +1,304 @@
+{
+	"id": "225b0916-b124-4a09-8acf-71192f3194c9",
+	"name": "Final Year Project",
+	"timestamp": "2021-10-30T04:27:00.454Z",
+	"collection_id": "17857494-498b31b6-7e45-4e98-802f-2f7732ce89b0",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 0,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "f600725e-6311-4726-8a6f-dd75c9a91086",
+			"name": "http://localhost:8080/DC/index.php",
+			"url": "http://localhost:8080/DC/reg.php",
+			"time": 30,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				30
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "06b56452-9c11-47b9-8d24-48e7f69ad7b9",
+			"name": "http://localhost:8080/DC/reg.php",
+			"url": "http://localhost:8080/DC/reg.php",
+			"time": 8,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				8
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "c1d60aba-3d75-4c98-a572-a97cf481a301",
+			"name": "http://localhost:8080/DC/login.php",
+			"url": "http://localhost:8080/DC/login.php",
+			"time": 7,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				7
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "fad0398b-39cb-485f-8b8b-50584ac4b0df",
+			"name": "http://localhost:8080/DC/contact.php",
+			"url": "http://localhost:8080/DC/contact.php",
+			"time": 4,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				4
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "818ff64e-027c-4596-8549-2903374f0ee2",
+			"name": "http://localhost:8080/DC/feedback.php",
+			"url": "http://localhost:8080/DC/feedback.php",
+			"time": 8,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				8
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "ada5bc1f-f3ae-4510-b10e-d36572d97bee",
+			"name": "http://localhost:8080/DC/MARVEL.php",
+			"url": "http://localhost:8080/DC/MARVEL.php",
+			"time": 10,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				10
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "68038cf2-f2cd-4d4e-8030-2395f796f95a",
+			"name": "http://localhost:8080/DC/DC.php",
+			"url": "http://localhost:8080/DC/DC.php",
+			"time": 8,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				8
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "48658cb2-2517-4a41-adf3-2e218307c588",
+			"name": "http://localhost:8080/DC/comicsoffer.php",
+			"url": "http://localhost:8080/DC/comicsoffer.php",
+			"time": 6,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				6
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "e9df31b8-3304-4e2c-900e-8a340dba6519",
+			"name": "http://localhost:8080/DC/search.php",
+			"url": "http://localhost:8080/DC/search.php",
+			"time": 8,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				8
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "5a136616-9bbb-428a-9370-698376897ec1",
+			"name": "http://localhost:8080/DC/cart.php",
+			"url": "http://localhost:8080/DC/cart.php",
+			"time": 7,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				7
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "ac4fea3f-2342-422e-ab2e-2f13ada6efff",
+			"name": "http://localhost:8080/DC/account.php",
+			"url": "http://localhost:8080/DC/account.php",
+			"time": 9,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				9
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "f591173c-ea6d-43c0-9ab5-3d1cf02b4ce2",
+			"name": "http://localhost:8080/DC/updateprofile.php",
+			"url": "http://localhost:8080/DC/updateprofile.php",
+			"time": 10,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				10
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "1b140c07-4aea-4969-b0b6-37cf17339000",
+			"name": "http://localhost:8080/DC/delete.php",
+			"url": "http://localhost:8080/DC/delete.php",
+			"time": 6,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				6
+			],
+			"allTests": [
+				{}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 121,
+	"collection": {
+		"requests": [
+			{
+				"id": "f600725e-6311-4726-8a6f-dd75c9a91086",
+				"method": "GET"
+			},
+			{
+				"id": "06b56452-9c11-47b9-8d24-48e7f69ad7b9",
+				"method": "GET"
+			},
+			{
+				"id": "c1d60aba-3d75-4c98-a572-a97cf481a301",
+				"method": "GET"
+			},
+			{
+				"id": "fad0398b-39cb-485f-8b8b-50584ac4b0df",
+				"method": "GET"
+			},
+			{
+				"id": "818ff64e-027c-4596-8549-2903374f0ee2",
+				"method": "GET"
+			},
+			{
+				"id": "ada5bc1f-f3ae-4510-b10e-d36572d97bee",
+				"method": "GET"
+			},
+			{
+				"id": "68038cf2-f2cd-4d4e-8030-2395f796f95a",
+				"method": "GET"
+			},
+			{
+				"id": "48658cb2-2517-4a41-adf3-2e218307c588",
+				"method": "GET"
+			},
+			{
+				"id": "e9df31b8-3304-4e2c-900e-8a340dba6519",
+				"method": "GET"
+			},
+			{
+				"id": "5a136616-9bbb-428a-9370-698376897ec1",
+				"method": "GET"
+			},
+			{
+				"id": "ac4fea3f-2342-422e-ab2e-2f13ada6efff",
+				"method": "GET"
+			},
+			{
+				"id": "f591173c-ea6d-43c0-9ab5-3d1cf02b4ce2",
+				"method": "GET"
+			},
+			{
+				"id": "1b140c07-4aea-4969-b0b6-37cf17339000",
+				"method": "GET"
+			}
+		]
+	}
+}

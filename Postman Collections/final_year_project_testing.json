@@ -1,0 +1,178 @@
+{
+  "info": {
+    "_postman_id": "498b31b6-7e45-4e98-802f-2f7732ce89b0",
+    "name": "Final Year Project",
+    "schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "http://localhost:8080/DC/index.php",
+      "_postman_id": "f600725e-6311-4726-8a6f-dd75c9a91086",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "http://localhost:8080/DC/index.php"
+      },
+      "response": []
+    },
+    {
+      "name": "http://localhost:8080/DC/reg.php",
+      "_postman_id": "06b56452-9c11-47b9-8d24-48e7f69ad7b9",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "http://localhost:8080/DC/reg.php"
+      },
+      "response": []
+    },
+    {
+      "name": "http://localhost:8080/DC/login.php",
+      "_postman_id": "c1d60aba-3d75-4c98-a572-a97cf481a301",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "http://localhost:8080/DC/login.php"
+      },
+      "response": []
+    },
+    {
+      "name": "http://localhost:8080/DC/contact.php",
+      "_postman_id": "fad0398b-39cb-485f-8b8b-50584ac4b0df",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "http://localhost:8080/DC/contact.php"
+      },
+      "response": []
+    },
+    {
+      "name": "http://localhost:8080/DC/feedback.php",
+      "_postman_id": "818ff64e-027c-4596-8549-2903374f0ee2",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "http://localhost:8080/DC/feedback.php"
+      },
+      "response": []
+    },
+    {
+      "name": "http://localhost:8080/DC/MARVEL.php",
+      "_postman_id": "ada5bc1f-f3ae-4510-b10e-d36572d97bee",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "http://localhost:8080/DC/MARVEL.php"
+      },
+      "response": []
+    },
+    {
+      "name": "http://localhost:8080/DC/DC.php",
+      "_postman_id": "68038cf2-f2cd-4d4e-8030-2395f796f95a",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "http://localhost:8080/DC/DC.php"
+      },
+      "response": []
+    },
+    {
+      "name": "http://localhost:8080/DC/comicsoffer.php",
+      "_postman_id": "48658cb2-2517-4a41-adf3-2e218307c588",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "http://localhost:8080/DC/comicsoffer.php"
+      },
+      "response": []
+    },
+    {
+      "name": "http://localhost:8080/DC/search.php",
+      "_postman_id": "e9df31b8-3304-4e2c-900e-8a340dba6519",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "http://localhost:8080/DC/search.php"
+      },
+      "response": []
+    },
+    {
+      "name": "http://localhost:8080/DC/cart.php",
+      "_postman_id": "5a136616-9bbb-428a-9370-698376897ec1",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "http://localhost:8080/DC/cart.php"
+      },
+      "response": []
+    },
+    {
+      "name": "http://localhost:8080/DC/account.php",
+      "_postman_id": "ac4fea3f-2342-422e-ab2e-2f13ada6efff",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "http://localhost:8080/DC/account.php"
+      },
+      "response": []
+    },
+    {
+      "name": "http://localhost:8080/DC/updateprofile.php",
+      "_postman_id": "f591173c-ea6d-43c0-9ab5-3d1cf02b4ce2",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "http://localhost:8080/DC/updateprofile.php"
+      },
+      "response": []
+    },
+    {
+      "name": "http://localhost:8080/DC/delete.php",
+      "_postman_id": "1b140c07-4aea-4969-b0b6-37cf17339000",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "http://localhost:8080/DC/delete.php"
+      },
+      "response": []
+    }
+  ]
+}
